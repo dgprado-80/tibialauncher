@@ -1,0 +1,11 @@
+
+{
+  "server_name": "BestserverOt",
+  "current_version": "1.0.0", 
+  "description": "Bestserver Client 1340 with 1511 content!",
+  "github_username": "dgprado-80",
+  "github_repository": "bestserver_client",
+  "client_zip_filename": "tibia-client.zip",
+  "enable_auto_update": true,
+  "protected_folders": ["minimap", "conf", "characterdata"]
+}
